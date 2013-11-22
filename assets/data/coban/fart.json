@@ -1,0 +1,12 @@
+{
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+		fart1 : { down: button_on-1, up: button_off-1 },
+		fart2 : { down: button_on-2, up: button_off-2 },
+		fart3 : { down: button_on-3, up: button_off-3 },
+		fart4 : { down: button_on-4, up: button_off-4 },
+		fart5 : { down: button_on-5, up: button_off-5 },
+		fart6 : { down: button_on-6, up: button_off-6 },
+		fart7 : { down: button_on-7, up: button_off-7 },
+		fart8 : { down: button_on-8, up: button_off-8 },
+	}
+}
